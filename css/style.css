@@ -311,12 +311,13 @@ p a {
 	padding-bottom: 12px;
 }
 .section {
-	float: left;
+	float: right;
 	width: 390px;
 	margin-right: 50px;
 }
 .section h1 {
 	margin-bottom: 18px;
+
 }
 .message input[type='text'], .message textarea {
 	color: #aeaeae;
@@ -357,6 +358,16 @@ p a {
 	line-height: 36px;
 	padding: 18px 0;
 }
+
+.link_1{
+    text-decoration: underline;
+    color: #DF3131;
+    padding: 3px 13px 3px 13px;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+ }
 /*------------------------------ FOOTER ------------------------------*/
 #footer {
 	background-color: #eee;
