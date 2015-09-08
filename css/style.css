@@ -92,7 +92,8 @@ img {
 }
 #navigation li a {
 	color: #818181;
-	font-size: 15px;
+	font-size: 17px;
+	font-weight: bold;
 	line-height: 30px;
 	text-decoration: none;
 }
@@ -100,7 +101,7 @@ img {
 	color: #000;
 }
 #navigation li.active a {
-	color: #f99600;
+	color: #EA0000;
 }
 #adbox {
 	background: url(../images/bg-adbox.jpg) repeat-x left top;
