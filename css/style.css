@@ -57,16 +57,16 @@ img {
 }
 /** Logo **/
 #header .logo {
-	float: left;
-	margin-right: 20px;
+	float: right;
+	margin: auto;
 }
 #header .logo a {
-	background: url(../images/logo.jpg) no-repeat center top;
+	background: url(../images/logo.png) no-repeat center top;
 	color: #000;
 	display: block;
 	font: 15px/30px 'Play';
-	height: 100px;
-	width: 76px;
+	height: 119px;
+	width: 103px;
 	padding-top: 68px;
 	text-decoration: none;
 	text-transform: uppercase;
