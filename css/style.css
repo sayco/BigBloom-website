@@ -333,6 +333,7 @@ p a {
 	height: 175px;
 	overflow: auto;
 	resize: none;
+	width: 580px;
 }
 .message input[type='submit'] {
 	float: right;
